@@ -74,6 +74,9 @@ section
 
 }
 footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
 }
 #foot-tail{
