@@ -73,7 +73,7 @@ section
     padding-top:10%;
 
 }
-footer{
+.second-last{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,6 +89,11 @@ footer{
     color:white;
     border-radius: 20px;
     padding:5%;
+}
+.footing{
+    text-align: center;
+    font-size:bold;
+    color:gray;
 }
 
 
